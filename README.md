@@ -25,4 +25,4 @@
    - Óleos;
    - Filtros;
 4. Diagrama
-(https://myoctocat.com/assets/images/base-octocat.svg)
+   - ![Teste.](https://myoctocat.com/assets/images/base-octocat.svg)
