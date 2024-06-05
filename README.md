@@ -1,5 +1,5 @@
 # Descrição do Sistcdol v1
-<sup>criado por gatewayro</sup>
+<sup>criado por gatewayro - CEO Thalles Onofre</sup>
 
 ## Sistema de troca de óleo veícular
 
@@ -24,3 +24,5 @@
    - Veículos;
    - Óleos;
    - Filtros;
+4. Diagrama
+(https://myoctocat.com/assets/images/base-octocat.svg)
